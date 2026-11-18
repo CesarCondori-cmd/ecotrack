@@ -1,0 +1,30 @@
+# Dependências
+node_modules/
+vendor/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente e segredos
+.env
+.env.local
+.env.*.local
+
+# Arquivos de build e compilação
+dist/
+build/
+out/
+.next/
+*.log
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
